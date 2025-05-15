@@ -14,3 +14,7 @@ SQL was used to define and calculate key performance metrics essential to the pr
 
 ### Customer Segmentation - Grouping the Customers:
 In the third stage of the project, Tableau was utilized to develop dynamic customer segmentations based on behavioral and performance metrics derived from prior SQL analysis. Using calculated fields, ranking logic, and set membership, customers were grouped into distinct segments reflecting patterns such as activity level, engagement, or metric-based performance. Tableau’s interactive features—such as parameter controls, filters, and set actions—enabled flexible exploration of these segments, allowing for quick comparisons and visual analysis of segment-specific trends. This visual segmentation approach supported strategic decision-making by highlighting key differences between customer groups in a clear, data-driven manner.
+
+## Connect to the TravelTide database
+postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/TravelTide
+
